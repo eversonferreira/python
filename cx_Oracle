@@ -1,0 +1,12 @@
+Fedora 32
+
+Download - http://yum.oracle.com/repo/OracleLinux/OL7/oracle/instantclient/x86_64/index.html
+
+#sudo yum install oracle-instantclient19.8-basic-19.8.0.0.0-1.x86_64.rpm
+
+Download - https://fedora.pkgs.org/32/fedora-x86_64/libnsl-2.31-2.fc32.x86_64.rpm.html
+
+sudo dnf install libnsl
+
+
+
